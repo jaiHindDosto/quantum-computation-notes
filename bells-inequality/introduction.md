@@ -5,3 +5,5 @@ distance.
 * In short, they wanted a theory that eliminated the randomness and explained the mystery.
 * However, we all now know that Einstein and Schrödinger’s view was wrong and that the Copenhagen model is regarded as the standard description.
 * *local realism* means that a particle can only be influenced by something changing in its vicinity. Practically all of us are local realists, but quantum mechanics shows us that we are wrong.
+
+![Bell's experiment results graph](bell.png)
